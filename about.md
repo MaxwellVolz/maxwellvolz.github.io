@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Information about me and the site is coming soon!
+The site is owned and operated by Max Volz. Developer. Gamer. 
 
 
 ### Contact me
 
-Connect with me via Github. Link at the bottom.
+Via Github. Link at the bottom.
