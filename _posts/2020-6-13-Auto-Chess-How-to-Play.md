@@ -54,6 +54,8 @@ They will appear in the inventory of your courier. You can hover over an item to
 
 *Advanced Tip: Right-clicking an item will allow you to view what items it can combine with to make more powerful items*
 
+![InGameScreenshot]({{ site.baseurl }}/images/autochess/item.png)
+
 As your courier levels up you can place more pieces on the chess board.
 
 ![InGameScreenshot]({{ site.baseurl }}/images/autochess/3x.png)
