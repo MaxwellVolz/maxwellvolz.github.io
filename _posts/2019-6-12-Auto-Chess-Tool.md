@@ -3,7 +3,7 @@ layout: post
 title: Dota Auto Chess Tool
 ---
 
-Check out the latest version of [Dota Auto Chess Tool](http://dota.wassuh.com)!
+Check out the latest version of [Dota Auto Chess Tool](http://dota.wassuh.com)
 
 ![AutoChessTool]({{ site.baseurl }}/images/autochesstool.png)
 
