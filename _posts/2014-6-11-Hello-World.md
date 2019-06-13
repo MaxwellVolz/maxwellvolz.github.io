@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Up and running!
+title: We live
 ---
 
 New site! Simplified the layout so I can focus on the content.

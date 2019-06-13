@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Dota Auto Chess Tool!
+title: Dota Auto Chess Tool
 ---
 
-Check out the latest version of an assistant for Dota Auto Chess!
+Check out the latest version of [Dota Auto Chess Tool](dota.wassuh.com)!
 
 ![AutoChessTool]({{ site.baseurl }}/images/autochesstool.png)
 
