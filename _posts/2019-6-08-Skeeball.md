@@ -3,7 +3,7 @@ layout: post
 title: Skeeball
 ---
 
-Skeeball in the browser! [Try it here](http://skeeball.wassuh.com)!
+Skeeball in the browser! [Try it here](http://skeeball.wassuh.com)
 
 ![SkeeballGame]({{ site.baseurl }}/images/skeeball.png)
 

@@ -3,7 +3,7 @@ layout: post
 title: Mountain Game
 ---
 
-Roll a ball down a mountain and smash a billboard! [Try it here](http://mountain.wassuh.com)!
+Roll a ball down a mountain and smash a billboard! [Demo](http://mountain.wassuh.com)
 
 ![MountainGame]({{ site.baseurl }}/images/mountain.png)
 
