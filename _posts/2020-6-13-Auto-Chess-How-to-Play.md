@@ -3,7 +3,7 @@ layout: post
 title: How to Play Dota Auto Chess
 ---
 
-A short intro to Dota Auto Chess
+A Short Intro to Dota Auto Chess
 
 Dota Auto Chess is a custom game for Dota. It is nothing like Dota. 
 
