@@ -33,8 +33,9 @@ You choose a piece by clicking on it. The piece will be added to your bench.
 
 ![InGameScreenshot]({{ site.baseurl }}/images/autochess/1.png)
 
+Now you need to put your piece in play.
 
-### **Now you need to put your piece in play. You must complete this task **before** the PREPARE timer at the top of the screen runs out**
+### You must complete this task before the **PREPARE** timer at the top of the screen runs out.
 
 Click the chess piece on your bench and click a position on your board.
 
