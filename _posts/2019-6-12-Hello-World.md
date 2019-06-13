@@ -1,10 +1,11 @@
 ---
 layout: post
-title: You're up and running!
+title: Dota Auto Chess Tool!
 ---
 
-Booyah!
+Check out the latest version of an assistant for Dota Auto Chess!
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![AutoChessTool]({{ site.baseurl }}/images/autochesstool.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+
+I created this tool to make it easier to visualize combos and gather more information about chess pieces outside of the game. You can add pieces to your squad from the *Chess Pieces* Section, view and remove pieces from *Current Squad*, and the combos you are currently getting will light up under *Species* and *Classes*.
