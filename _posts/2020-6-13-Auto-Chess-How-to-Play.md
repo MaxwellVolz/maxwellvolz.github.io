@@ -29,7 +29,7 @@ Controls:
 
 The game begins with a single choice of 5 units.
 
-You choose a piece by clicking on it and it will be added to your bench.
+You choose a piece by clicking on it. The piece will be added to your bench.
 
 ![InGameScreenshot]({{ site.baseurl }}/images/autochess/1.png)
 
