@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Dota Auto Chess How to Play
+title: How to Play Dota Auto Chess
 ---
 
-Learn how to play Dota Auto Chess, the latest craze in Dota Custom Games!
+Learn how to play Dota Auto Chess, the latest craze in Dota Custom Games
 
 Dota Auto Chess is a custom game for Dota. It is nothing like Dota. 
 
@@ -45,13 +45,14 @@ The first three rounds are against tree creatures of increasing difficulty.
 
 ### PVE rounds are important to win because killing creatures in these rounds gives a chance to drop items.
 
+Items appear as present boxes you must pick up with your courier.
+
 ![InGameScreenshot]({{ site.baseurl }}/images/autochess/3.png)
 
-Items appear as present boxes you must pick up with your courier.
 
 They will appear in the inventory of your courier. You can hover over an item to read its effects. 
 
-*Advanced: Right-clicking an item will allow you to view what items it can combine with to make more powerful items*
+*Advanced Tip: Right-clicking an item will allow you to view what items it can combine with to make more powerful items*
 
 As your courier levels up you can place more pieces on the chess board.
 
@@ -61,18 +62,18 @@ Your combos on the board are shown in the bottom middle of your screen.
 
 ![InGameScreenshot]({{ site.baseurl }}/images/autochess/4x.png)
 
-If you acquire 3 of the same piece you can combine them to create a more powerful version of that piece.
+## If you acquire 3 of the same piece you can combine them to create a more powerful version of that piece.
 
 By hovering over the **D** ability you can see the percentages of rolling higher cost pieces.
 
 ![InGameScreenshot]({{ site.baseurl }}/images/autochess/6.png)
 
-View the scoreboard by clicking the arrow in the bottom right of the screen.
+Expand the scoreboard by clicking the arrow in the bottom right of the screen.
 
 ![InGameScreenshot]({{ site.baseurl }}/images/autochess/6x.png)
 
 Notice what pieces and combinations other players are going for to avoid reducing your chances. There is a limited number of each piece.
 
-![InGameScreenshot]({{ site.baseurl }}/images/autochess/6x.png)
+![InGameScreenshot]({{ site.baseurl }}/images/autochess/7.png)
 
 More coming soon!
