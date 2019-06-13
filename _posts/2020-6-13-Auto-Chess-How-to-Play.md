@@ -29,15 +29,14 @@ Controls:
 
 The game begins with a single choice of 5 units.
 
-![InGameScreenshot]({{ site.baseurl }}/images/autochess/1.png)
-
 You choose a piece by clicking on it and it will be added to your bench.
 
-### **Now you need to put your piece in play!**
+![InGameScreenshot]({{ site.baseurl }}/images/autochess/1.png)
 
-Select the chess piece on your bench and select a position on your board.
 
-### You must complete this task **before** the PREPARE timer at the top of the screen runs out
+### **Now you need to put your piece in play. You must complete this task **before** the PREPARE timer at the top of the screen runs out**
+
+Click the chess piece on your bench and click a position on your board.
 
 ![InGameScreenshot]({{ site.baseurl }}/images/autochess/2.png)
 
