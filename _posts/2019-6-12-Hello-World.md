@@ -7,5 +7,10 @@ Check out the latest version of an assistant for Dota Auto Chess!
 
 ![AutoChessTool]({{ site.baseurl }}/images/autochesstool.png)
 
+A tool for trying out different squads and combos.
 
-I created this tool to make it easier to visualize combos and gather more information about chess pieces outside of the game. You can add pieces to your squad from the *Chess Pieces* Section, view and remove pieces from *Current Squad*, and the combos you are currently getting will light up under *Species* and *Classes*.
+Features:
+*Add pieces to squad from *Chess Pieces*
+*View and remove pieces from *Current Squad*
+*Highlighting of active combos from *Current Squad* under *Species* and *Classes*
+*Skill information on hover of *Chess Pieces*
