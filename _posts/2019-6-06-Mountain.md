@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We live
+title: Mountain Game
 ---
 
 Roll a ball down a mountain and smash a billboard! [Try it here](http://mountain.wassuh.com)!

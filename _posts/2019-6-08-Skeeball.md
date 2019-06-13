@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We live
+title: Skeeball
 ---
 
 Skeeball in the browser! [Try it here](http://skeeball.wassuh.com)!
