@@ -36,10 +36,10 @@ Most games end before Trolls at Round 40.
 
 Your currency is shown in the top-right of the screen. 
 
-At the end of each round you recieve
+At the end of each round you recieve:
 
-| Round         | Gold  |
-| ------------- |:-----:|
+| Round         | ⠀⠀⠀⠀⠀⠀⠀⠀Gold  |
+| ------------- |-----:|
 | 1             | 1     |
 | 2             | 2     |
 | 3             | 3     |
@@ -80,8 +80,8 @@ Your couriers level is displayed in the bottom left of its portrait, in the bott
 
 PVE rounds **do not** count towards your streak.
 
-| Win/Loss      | Bonus Gold |
-| ------------- |:-----:|
+| Win/Loss⠀⠀⠀⠀      | ⠀⠀⠀⠀⠀⠀⠀⠀Bonus Gold |
+| ------------- |-----:|
 | 3-5           | 1     |
 | 6-8           | 2     |
 | 9+            | 3     |
