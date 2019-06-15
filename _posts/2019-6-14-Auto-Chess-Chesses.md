@@ -35,7 +35,7 @@ The Shop re-rolls every round, unless you press the Lock icon in the bottom-left
 
 ## Roll Chances
 
-|Rank⠀⠀⠀ |⠀⠀⠀$1|⠀⠀⠀$2|⠀⠀⠀$3|⠀⠀⠀$4|⠀⠀⠀$5|
+|Rank⠀⠀⠀ |⠀⠀⠀⠀⠀⠀$1|⠀⠀⠀⠀⠀⠀$2|⠀⠀⠀⠀⠀⠀$3|⠀⠀⠀⠀⠀⠀$4|⠀⠀⠀⠀⠀⠀$5|
 |-----|-----------:|-------------:|---------:|-----------:|--------------:|
 |1	  |100%	      |0%	        |0%	      |0%	      |0%            |
 |2	  |70%	      |30%          |0%	      |0%         |0%            |
@@ -48,7 +48,7 @@ The Shop re-rolls every round, unless you press the Lock icon in the bottom-left
 |9	  |22%	      |30%          |25%	  |20%	      |3%            |
 |10	  |19%	      |25%          |25%	  |25%	      |6%            |
 
-### The Blacklist *Advanced Topic*
+###  *Advanced Topic*: The Blacklist
 
 Whenever a chess piece is to be replaced by a new one (either by manually re-rolling or the natural re-roll after a round), all chess pieces that were still in the shop are added to list of pieces that cannot occur in the next pack. This list is completely renewed on every re-roll, so previous blacklists have no effect.
 
