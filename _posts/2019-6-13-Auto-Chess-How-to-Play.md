@@ -87,5 +87,5 @@ Notice what pieces and combinations other players are going for to avoid reducin
 [Tool for Visualizing Combinations of Chess pieces](http://dota.wassuh.com)
 
 
-[How to Play Auto Chess Part 2](2019-6-14-Auto-Chess-Chesses.md)
+[How to Play Auto Chess Part 2](./Auto-Chess-Chesses/)
 More coming soon!
