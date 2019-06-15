@@ -33,7 +33,7 @@ Courier Skills
  - **E**: Sell Chess Piece. Press **S**. Select Piece. 100% Refund for ★ pieces.
  - **D**: Reroll Shop. Odds change with level. Costs 2 Gold.
  - **F**: Buy 4 Experience. Costs 5 Gold.
- - **SPACEBAR**: Toggle Chess Piece Shop
+ - **SPACEBAR**: Open or Close the Shop
 
 ---
 
