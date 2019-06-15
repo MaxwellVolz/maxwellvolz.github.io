@@ -13,8 +13,8 @@ Fight other players. You want your beefcakes in the front and range dps in the b
 
 Chance to get items. It is **very important** to win these rounds.
 
-| Round         | Gold  | Strategy |
-| ------------- |:---------------------:|:----------------------:|
+| Round⠀⠀⠀         |Type⠀⠀⠀  | ⠀⠀⠀⠀⠀⠀Strategy |
+| ------------- |:---------------------|----------------------:|
 | 1-3           | Normal Creeps         |
 | 10            | Golems                |
 | **15**            | **Wolves***           | **Put Tanks in Back.**
