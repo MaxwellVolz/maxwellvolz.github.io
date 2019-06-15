@@ -26,7 +26,7 @@ Basics:
 
 ![InGameScreenshot]({{ site.baseurl }}/images/autochess/skills.png)
 
-Courier Skills
+Courier Skills:
 
  - **Q**: Move Chess Piece. Press **Q**. Select Piece. Select Location.
  - **W**: Return Chess Piece to Bench. Press **W**. Select Piece.
@@ -35,7 +35,7 @@ Courier Skills
  - **F**: Buy 4 Experience. Costs 5 Gold.
  - **SPACEBAR**: Open or Close the Shop
 
----
+## Quick Game Overview
 
 The game begins with a single choice of 5 units. 
 
@@ -86,4 +86,6 @@ Notice what pieces and combinations other players are going for to avoid reducin
 
 [Tool for Visualizing Combinations of Chess pieces](http://dota.wassuh.com)
 
+
+[How to Play Auto Chess Part 2](2019-6-14-Auto-Chess-Chesses.md)
 More coming soon!
