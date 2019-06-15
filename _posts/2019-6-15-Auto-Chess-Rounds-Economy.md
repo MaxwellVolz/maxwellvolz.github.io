@@ -13,18 +13,18 @@ Fight other players. You want your beefcakes in the front and range dps in the b
 
 Chance to get items. It is **very important** to win these rounds.
 
-| Round⠀⠀⠀         |Type⠀⠀⠀  | ⠀⠀⠀⠀⠀⠀Strategy |
+| Round⠀⠀⠀         |Type⠀⠀⠀  | ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Strategy |
 | ------------- |:---------------------|----------------------:|
 | 1-3           | Normal Creeps         |
 | 10            | Golems                |
 | **15**            | **Wolves***           | **Put Tanks in Back.**
 | 20            | Hellbears             |
-| 25            | Wildwings             | Smash Splash Area. Spread 'em.
-| 30            | Thunderhides          | They Ignore Armor. Move CC forward.
+| 25            | Wildwings             | Ranged Splash Area Effect. Spread 'em
+| 30            | Thunderhides          | They Ignore Armor. Move CC forward
 | 35            | **Black Dragon****    | **Spread 'em.**
-| 40            | Trolls                | Move all the way forward.
-| 45            | Lunar Beast           | Spread 'em.
-| 50            | Roshan                | 
+| 40            | Trolls                | Move all the way forward
+| 45            | Lunar Beast           | Spread 'em
+| 50            | Roshan                | Don't worry about this
 
 **The most important round you need to remember. Round 15 wolves act like assassin pieces and jump to the back line at the start of the fight. A common strategy to counter this is to move your ranged and caster units to the top of your board.*
 
