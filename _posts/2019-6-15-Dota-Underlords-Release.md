@@ -27,4 +27,9 @@ Play a practice round.
 
 The game is very similiar to Dota Auto Chess but there are **a lot** of changes to the class and species combos.
 
+This is what it looks like when you win :)
+
+![UnderlordsWin]({{ site.baseurl }}/images/autochess/underlordsWin.png)
+
+
 More soon!
