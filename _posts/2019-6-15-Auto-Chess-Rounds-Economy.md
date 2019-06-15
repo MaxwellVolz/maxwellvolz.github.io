@@ -26,7 +26,7 @@ Chance to get items. It is **very important** to win these rounds.
 | 45            | Lunar Beast           | Spread 'em
 | 50            | Roshan                | Don't worry about this
 
-****The most important round you need to remember.** Round 15 wolves act like assassin pieces and jump to the back line at the start of the fight. A common strategy to counter this is to move your ranged and caster units to the top of your board.*
+***\*The most important round you need to remember.** Round 15 wolves act like assassin pieces and jump to the back line at the start of the fight. A common strategy to counter this is to move your ranged and caster units to the top of your board.*
 
 ***The Black Dragon does splash damage and you should to spread your units.*
 
