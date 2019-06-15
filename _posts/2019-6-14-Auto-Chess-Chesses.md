@@ -11,7 +11,7 @@ Shameless plug for [Dota Auto Chess Tool](http://dota.wassuh.com). Try out combo
 
 Combining 3 of the same piece will make it a ★★ piece.
 
-Combining 3 ★★ pieces will make it ★★★ piece, super saiyan mode.
+Combining 3 ★★ pieces will make it ★★★ piece, super saiyan mode. 
 
 Io is a 5 cost piece that can be used as a substitute in place of other chess piece for upgrading.
 
