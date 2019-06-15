@@ -51,3 +51,6 @@ The Shop re-rolls every round, unless you press the Lock icon in the bottom-left
 ### The Blacklist *Advanced Topic*
 
 Whenever a chess piece is to be replaced by a new one (either by manually re-rolling or the natural re-roll after a round), all chess pieces that were still in the shop are added to list of pieces that cannot occur in the next pack. This list is completely renewed on every re-roll, so previous blacklists have no effect.
+
+
+[How to Play Auto Chess Part 3](http://wassuh.com/Auto-Chess-Rounds-Economy/)
