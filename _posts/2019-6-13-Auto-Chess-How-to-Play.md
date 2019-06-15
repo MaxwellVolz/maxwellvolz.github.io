@@ -23,9 +23,10 @@ Basics:
 
 ### You control everything in the game with a unit called a courier
 
-Courier Skills (always displayed at bottom middle of screen)
 
 ![InGameScreenshot]({{ site.baseurl }}/images/autochess/skills.png)
+
+Courier Skills
 
  - **Q**: Move Chess Piece. Press **Q**. Select Piece. Select Location.
  - **W**: Return Chess Piece to Bench. Press **W**. Select Piece.
