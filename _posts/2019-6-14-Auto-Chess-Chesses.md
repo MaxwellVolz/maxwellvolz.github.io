@@ -19,7 +19,7 @@ Io is a 5 cost piece that can be used as a substitute in place of other chess pi
 
 The Chess Pool is shared for all players. Each tier has a different amount of units available.
 
-| Cost         | Amount |
+| Cost⠀⠀⠀⠀⠀⠀       | Amount |
 | ------------- |---------------:|
 | 1             | 45              |
 | 2             | 30              |
@@ -35,7 +35,7 @@ The Shop re-rolls every round, unless you press the Lock icon in the bottom-left
 
 ## Roll Chances
 
-|Rank |$1|$2|$3|$4|$5|
+|Rank⠀⠀⠀ |$1⠀⠀⠀|$2⠀⠀⠀|$3⠀⠀⠀|$4⠀⠀⠀|$5⠀⠀⠀|
 |-----|:-----------:|:-------------:|:---------:|:-----------:|:--------------:|
 |1	  |100%	      |0%	        |0%	      |0%	      |0%            |
 |2	  |70%	      |30%          |0%	      |0%         |0%            |
