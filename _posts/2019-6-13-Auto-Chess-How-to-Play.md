@@ -39,13 +39,13 @@ Courier Skills
 
 The game begins with a single choice of 5 units. 
 
-You choose a piece by clicking on it. The piece will be added to your bench.
+You choose a piece by clicking on it. The piece will be added to your **Bench**.
 
 ![InGameScreenshot]({{ site.baseurl }}/images/autochess/1.png)
 
 ## **Now you need to put your piece in play! You must complete this task before the **PREPARE** timer at the top of the screen runs out.**
 
-Click the chess piece on your bench and click a position on your board.
+Click the chess piece on your bench and click a position on your **Chess Board**.
 
 ![InGameScreenshot]({{ site.baseurl }}/images/autochess/2.png)
 
