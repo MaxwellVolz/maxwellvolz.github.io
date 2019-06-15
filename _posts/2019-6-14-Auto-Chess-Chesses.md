@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dota Auto Chess Tutorial - Chess Pieces
+title: How to Play Auto Chess Part 2
 ---
 
 Chess Pieces, How They Combo, What Makes Them Tick
