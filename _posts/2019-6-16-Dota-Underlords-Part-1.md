@@ -83,20 +83,20 @@ When the game begins you will see the following screen with a random set of 5 un
 ![UnderlordsUIBreakdown1]({{ site.baseurl }}/images/underlords/uibreakdown1.png)
 
 - **Guide** - Opens in-game guide to Pieces, Alliances, and Items
-- **Lock** - Opens in-game guide to Pieces, Alliances, and Items
-- **Cost** - Opens in-game guide to Pieces, Alliances, and Items
-- **Reroll** - Opens in-game guide to Pieces, Alliances, and Items
-- **Buy XP** - Opens in-game guide to Pieces, Alliances, and Items
-- **Alliance Icons** - Opens in-game guide to Pieces, Alliances, and Items
+- **Lock** - Prevents *The Shop* from automatically rerolling at the start of the round. Can be used if you're too poor to purchase a combo you want.
+- **Cost** - Higher tier Pieces cost more but have higher base stats. 
+- **Reroll** - 2 gold allows you to manually reroll *The Shop*
+- **Buy XP** - 5 gold gives you 4xp. This is important to notice when purchasing XP will get you to the next level and allow another piece on the board. 
+- **Alliance Icons** - Displays Alliances of options in *The Shop*
 
 
 As you add more Pieces to your Board and Bench the **Alliance Icons** will also show you what Alliances you are working towards.
 
-In the game being shown through screenshots I've purchased **Enchantress**.
+As an example I've purchased **Enchantress**.
 
 ![UnderlordsEnchantress]({{ site.baseurl }}/images/underlords/enchantress.png)
 
-Enchantress is a **Savage** **Druid** and because I now have 1 of 2 **Savage** Alliance Pieces the Tusk Piece in the Shop shows my progress towards that combo.
+Enchantress is a **Savage** and a **Druid** and because I now have 1 of 2 **Savage** Alliance Pieces the Tusk Piece in the Shop shows my progress towards that combo.
 
 ![UnderlordsTusk]({{ site.baseurl }}/images/underlords/tusk.png)
 
