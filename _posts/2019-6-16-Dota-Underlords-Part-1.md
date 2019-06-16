@@ -106,6 +106,44 @@ Drag the Piece you purchased from *The Bench* onto *The Board*.
 
 ![UnderlordsPlacePiece]({{ site.baseurl }}/images/underlords/placing.gif)
 
+## Battle
+
+![UnderlordsWarmupRound]({{ site.baseurl }}/images/underlords/warmupround.png)
+
+## Item Selection
+
+At the end of a **Loot Round** you to choose from a selection of 3* items.
+
+**This can be increased to 4 with a passive item.*
+
+![UnderlordsItemSelection]({{ site.baseurl }}/images/underlords/itemSelection.png)
+
+## More UI Breakdown
+
+The right side of your screen consists of 3 menus that can be navigate by clicking the icons or using your mouse wheel.
+
+The First Menu displays **Alliances**. With an Enchantress on *The Board* this menu shows one of two **Savage** and one of two **Druids**.
+
+![UnderlordsUIBreakdown2]({{ site.baseurl }}/images/underlords/uibreakdown2.png)
+
+When the round begins the Second Menu displays several tables to compare the DPS, Damage Taken, and other useful stats about the battle. This is useful for seeing the effectiveness of your Pieces on *The Board*.
+
+![UnderlordsUIBreakdownDPS]({{ site.baseurl }}/images/underlords/dps.png)
+
+The Third Menu displays your current items. You can equip active items by dragging them onto a Piece.
+
+![UnderlordsPlacingItem]({{ site.baseurl }}/images/underlords/placingItem.gif)
+
+
+## Scoreboard Breakdown
+
+- **Gold** - A good way of judging if you can afford rerolls or should be saving for interest gains.
+- **Level** - Determines amount of Pieces you can have on *The Board* and chances for rolling higher tier Pieces. Experience increases by 1 each round and 4xp can be purchased for 5 gold. 
+- **Health** - Players position will update as the lose health. Don't run out!
+
+![UnderlordsUIBreakdownScoreboard]({{ site.baseurl }}/images/underlords/scoreboard.png)
+
+
 Rinse. Repeat. Make a lot of combos.
 
 More soon!
