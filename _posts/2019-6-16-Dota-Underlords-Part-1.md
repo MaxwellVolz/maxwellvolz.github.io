@@ -89,7 +89,7 @@ In the game being shown through screenshots I've purchased **Enchantress**.
 
 ![UnderlordsEnchantress]({{ site.baseurl }}/images/underlords/enchantress.png)
 
-Enchantress is a **Savage** **Druid** and because I now have 1/2 **Savage** Alliance the Tusk Piece in the shop shows me that I'm working towards a combo.
+Enchantress is a **Savage** **Druid** and because I now have 1 of 2 **Savage** Alliance Pieces the Tusk Piece in the Shop shows my progress towards that combo.
 
 ![UnderlordsTusk]({{ site.baseurl }}/images/underlords/tusk.png)
 
@@ -99,5 +99,6 @@ Drag the Piece you purchased from your Bench onto the Board.
 
 ![UnderlordsPlacePiece]({{ site.baseurl }}/images/underlords/placing.gif)
 
+Rinse. Repeat. Make a lot of combos.
 
 More soon!
