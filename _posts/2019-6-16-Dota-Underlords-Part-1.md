@@ -48,13 +48,13 @@ The first 3 rounds are PVE and allow you to choose an item. Items can be equippe
 
 ![UnderlordsItems1]({{ site.baseurl }}/images/underlords/items.png)
 
-Active:
+The **Blight Stone** is most useful when equipped on a strong physical damage Piece.
 
 ![UnderlordsItemActive]({{ site.baseurl }}/images/underlords/active.png)
 
-Passive:
+**Unstable Reactor** passively affects your **Inventor** Pieces. 
 
-![UnderlordsItemPassive]({{ site.baseurl }}/images/underlords/active.png)
+![UnderlordsItemPassive]({{ site.baseurl }}/images/underlords/passive.png)
 
 
 ## Getting Started
@@ -65,5 +65,17 @@ This will allow you to progress through the rounds at your own pace.
 
 ![UnderlordsSelectMode]({{ site.baseurl }}/images/underlords/selectMode.png)
 
+Or just speed through the screenshots below **and pop into a Multiplayer**.
 
-More soon!**
+## Round 1
+
+When the game begins you will see the following screen with a random set of 5 units from Tier 1.
+
+![UnderlordsRound1]({{ site.baseurl }}/images/underlords/round1.png)
+
+![UnderlordsUIBreakdown1]({{ site.baseurl }}/images/underlords/uibreakdown1.png)
+
+
+
+
+More soon!
