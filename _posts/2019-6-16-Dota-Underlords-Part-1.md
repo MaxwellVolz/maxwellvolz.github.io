@@ -73,9 +73,31 @@ When the game begins you will see the following screen with a random set of 5 un
 
 ![UnderlordsRound1]({{ site.baseurl }}/images/underlords/round1.png)
 
+Breakdown of UI
+- **Guide** - Opens in-game guide to Pieces, Alliances, and Items
+- **Lock** - Opens in-game guide to Pieces, Alliances, and Items
+- **Cost** - Opens in-game guide to Pieces, Alliances, and Items
+- **Reroll** - Opens in-game guide to Pieces, Alliances, and Items
+- **Buy XP** - Opens in-game guide to Pieces, Alliances, and Items
+- **Alliance Icons** - Opens in-game guide to Pieces, Alliances, and Items
+
 ![UnderlordsUIBreakdown1]({{ site.baseurl }}/images/underlords/uibreakdown1.png)
 
+As you add more Pieces to your Board and Bench the **Alliance Icons** will also show you what Alliances you are working towards.
 
+In the game being shown through screenshots I've purchased **Enchantress**.
+
+![UnderlordsEnchantress]({{ site.baseurl }}/images/underlords/enchantress.png)
+
+Enchantress is a **Savage** **Druid** and because I now have 1/2 **Savage** Alliance the Tusk Piece in the shop shows me that I'm working towards a combo.
+
+![UnderlordsTusk]({{ site.baseurl }}/images/underlords/tusk.png)
+
+## The Final Step Before BATTLE
+
+Drag the Piece you purchased from your Bench onto the Board.
+
+![UnderlordsPlacePiece]({{ site.baseurl }}/images/underlords/placing.gif)
 
 
 More soon!
