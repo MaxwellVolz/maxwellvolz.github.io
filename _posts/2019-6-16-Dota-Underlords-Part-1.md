@@ -28,19 +28,24 @@ The game begins with a single choice of 5 units from Tier 1.
 
 ![UnderlordsTier1]({{ site.baseurl }}/images/underlords/tier1.png)
 
-You want to start looking from combinations of **Alliances**. Alliances consist of unique pieces.
+You want to start looking from combinations of **Alliances**. 
+
+Alliances only count unique pieces but duplicate pieces will also recieve the bonus if applicable.
 
 These are all of the Alliances currently in game:
 
 ![UnderlordsAlliances]({{ site.baseurl }}/images/underlords/alliances.png)
 
-Alliances may have different amounts of pieces required for the bonus tiers.
+Alliances may have different amounts of pieces required for the bonus tiers. 
+
+The **Brawny** Alliance has two tiers that require two each and each tier increased the HP of your **Brawny** Pieces.
+
+![UnderlordsBrawnies]({{ site.baseurl }}/images/underlords/brawny.png)
+
+The **Assassin** Alliance has three tiers of three that each give bonus chances for to attack for critical damage for **Assassins**.
 
 ![UnderlordsAssassins]({{ site.baseurl }}/images/underlords/assassins.png)
 
-The **Brawny** Alliance only has 2 tiers that require 2 each.
-
-![UnderlordsBrawnies]({{ site.baseurl }}/images/underlords/brawny.png)
 
 ## Items
 
@@ -73,7 +78,10 @@ When the game begins you will see the following screen with a random set of 5 un
 
 ![UnderlordsRound1]({{ site.baseurl }}/images/underlords/round1.png)
 
-Breakdown of UI
+## Breakdown of UI
+
+![UnderlordsUIBreakdown1]({{ site.baseurl }}/images/underlords/uibreakdown1.png)
+
 - **Guide** - Opens in-game guide to Pieces, Alliances, and Items
 - **Lock** - Opens in-game guide to Pieces, Alliances, and Items
 - **Cost** - Opens in-game guide to Pieces, Alliances, and Items
@@ -81,7 +89,6 @@ Breakdown of UI
 - **Buy XP** - Opens in-game guide to Pieces, Alliances, and Items
 - **Alliance Icons** - Opens in-game guide to Pieces, Alliances, and Items
 
-![UnderlordsUIBreakdown1]({{ site.baseurl }}/images/underlords/uibreakdown1.png)
 
 As you add more Pieces to your Board and Bench the **Alliance Icons** will also show you what Alliances you are working towards.
 
@@ -93,9 +100,9 @@ Enchantress is a **Savage** **Druid** and because I now have 1 of 2 **Savage** A
 
 ![UnderlordsTusk]({{ site.baseurl }}/images/underlords/tusk.png)
 
-## The Final Step Before BATTLE
+## The Final Step Before Battle
 
-Drag the Piece you purchased from your Bench onto the Board.
+Drag the Piece you purchased from *The Bench* onto *The Board*.
 
 ![UnderlordsPlacePiece]({{ site.baseurl }}/images/underlords/placing.gif)
 
