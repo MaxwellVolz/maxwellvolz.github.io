@@ -22,7 +22,7 @@ Basics:
  - Combining 3 of the same piece will make it a ★★ piece
  - Combining 3 ★★ pieces will make it ★★★ piece, super saiyan mode
 
- ## The Game
+## The Game
 
 The game begins with a single choice of 5 units from Tier 1.
 
