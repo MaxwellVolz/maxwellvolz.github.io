@@ -14,7 +14,7 @@ After assembling chess pieces on their chess board they fight against either a s
 
 Basics:
  - Each player starts with 100% life
- - You lose life by losing rounds on your own board
+ - You lose life by losing rounds
  - Rounds consist of PVP and PVE battles
  - Draws and wins do not lead to losing life
  - Once a player reaches 0% they are eliminated

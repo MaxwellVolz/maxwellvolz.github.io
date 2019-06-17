@@ -15,15 +15,13 @@ Expecting Dota Auto Chess to perish in the next few days...but for now...CLOSED 
 
 Or just wait a week and it will be free to play.
 
-# New to *Dota Auto Chess* and *Dota Underlords*
 
-Most of the following tutorial is relevant but will be update soon.
-[How to Play Auto Chess Part 1](http://wassuh.com/Auto-Chess-How-to-Play/)
 
 
 # New to Dota Underlords
 
-Play a practice round.
+Check out the new tutorial for Dota Underlords
+[Dota Underlords Part 1](http://wassuh.com/Dota-Underlords-Part-1/)
 
 The game is very similiar to Dota Auto Chess but there are **a lot** of changes to the class and species combos.
 
