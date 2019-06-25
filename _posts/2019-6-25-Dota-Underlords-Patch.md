@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Dota Underlords Balance Patch
+categories: Underlords
 ---
 
 Big balance update! Mages nerfed! Dragon Knight looking extra beefy. Cliffnotes below.

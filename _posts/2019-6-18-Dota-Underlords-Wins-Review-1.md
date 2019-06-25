@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Dota Underlords Strategy by Review
+categories: Underlords
 ---
 
 Check out the Demon Hunters Passive Item and my reviews of some of my winning team compositions.

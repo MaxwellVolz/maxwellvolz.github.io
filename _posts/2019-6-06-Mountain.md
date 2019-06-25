@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Mountain Game
+categories: Games
 ---
 
 Roll a ball down a mountain and smash a billboard! [Demo](http://mountain.wassuh.com)

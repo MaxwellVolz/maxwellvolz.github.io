@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Dota Underlords Released
+categories: Underlords
 ---
 
 Official Release of Dota Underlords! Time to start grinding the ranks!

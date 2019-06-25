@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How to Play Auto Chess Part 1
+categories: AutoChess
 ---
 
 A Short Intro to Dota Auto Chess

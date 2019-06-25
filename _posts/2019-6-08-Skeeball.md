@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Skeeball
+categories: Games
 ---
 
 Skeeball in the browser! [Try it here](http://skeeball.wassuh.com)

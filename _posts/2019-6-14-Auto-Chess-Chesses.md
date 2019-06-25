@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How to Play Auto Chess Part 2
+categories: AutoChess
 ---
 
 Chess Pieces, How They Combo, What Makes Them Tick

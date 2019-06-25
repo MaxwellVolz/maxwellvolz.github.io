@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Dota Underlords Released
+title: Dota Underlords Closed Beta Released
+categories: Underlords
 ---
 
 Expecting Dota Auto Chess to perish in the next few days...but for now...CLOSED BETA STANDALONE AUTO CHESS IS HERE!

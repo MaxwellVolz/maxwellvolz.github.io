@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Dota Underlords Part 1
+categories: Underlords
 ---
 
 Dota Underlords is a strategy game with resource management, gambling, and combinations of various items and types of units to defeat seven other opponents.

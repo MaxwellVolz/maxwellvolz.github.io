@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Dota Auto Chess Tool
+categories: AutoChess
 ---
 
 Check out the latest version of [Dota Auto Chess Tool](http://dota.wassuh.com)

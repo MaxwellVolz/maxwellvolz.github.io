@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How to Play Auto Chess Part 3
+categories: AutoChess
 ---
 
 Rounds and Economy
