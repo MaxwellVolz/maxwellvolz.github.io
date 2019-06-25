@@ -1,51 +1,74 @@
 ---
 layout: post
-title: Dota Underlords Part 1
+title: Dota Underlords Strategy by Review
 ---
 
-Dota Underlords is a strategy game with resource management, gambling, and combinations of various items and types of units to defeat seven other opponents.
+Check out the Demon Hunters Passive Item and my reviews of some of my winning team compositions.
 
-## Game Overview
+## Strange Bedfellows
 
-Players assemble a team of units to battle against each other in a series of rounds. Each round players add to their team while trying to find combinations of similar pieces **and** pieces with matching species and classes. 
+Weird name...but sweet passive item.
 
-After assembling chess pieces on their chess board they fight against either a set of neutral creeps for a chance at loot or copies of a random opponents team.
+![UnderlordsDemonsPassive]({{ site.baseurl }}/images/underlords/demonsPassive.png)
 
-Basics:
- - Each player starts with 100% life
- - You lose life by losing rounds
- - Rounds consist of PVP and PVE battles
- - Draws and wins do not lead to losing life
- - Once a player reaches 0% they are eliminated
- - As you gain levels you can have more pieces in play
- - Combining 3 multiples make
+I picked up this **Demon Hunters** passive item in round 2 and started focussing on gathering both **Demon Hunters**, and then as many **Demons** as possible.
 
-## The Game
+The bonus makes your **Demon Hunters** hit like trucks. **+30% for each unique allied Demon unit**.
 
-The game begins with a single choice of 5 units from Tier 1.
+At the time of the screenshot my **Terrorblade** and **Anti Mage**(mostly covered by the item overly) are getting **+120% Pure Damage**.
 
-![UnderlordsTier1]({{ site.baseurl }}/images/underlords/tier1.png)
+While this was a really fun team to play I failed to make enough combos to win and finished 2nd.
 
-You want to start looking from combinations of **Alliances**. 
+On to some recent wins!
 
-**Alliances** only count unique pieces but duplicate pieces will also recieve the bonus if applicable.
+# Beast and Druids with a sprinkling of Human
 
-These are currently 23 **Alliances** in the game:
+![UnderlordsUnderlordsWin]({{ site.baseurl }}/images/underlords/underlordsWin.png)
 
-![UnderlordsAlliances]({{ site.baseurl }}/images/underlords/alliances.png)
+## The Druids
 
-**Alliances** may have different amounts of pieces required for the bonus tiers. 
+Druids are just fun to play. If you ever get a two star druid you can pick up any other druid and if you play it...**BAM**...it's also 2 star. 
 
-The **Brawny Alliance** has two tiers that require two each and each tier increased the HP of your **Brawny** pieces.
+**The 2 set druid combo increases the level of the lowest druid on the board. If you have two 2 star druids one will become a 3 star.*
 
-![UnderlordsBrawnies]({{ site.baseurl }}/images/underlords/brawny.png)
+**The 4 set druid combo increases the level of the lowest 2 druids on the board. If you have two 2 star druids both will become 3 star.*
 
-The **Assassin Alliance** has three tiers of three that each give bonus chances for to attack for critical damage for **Assassins**.
+Having a level 3 **Enchantress** and level 2 **Prophet**, **Treant**, and **Lone Druid** meant that two my level 2's would become level 3. Very strong.
 
-![UnderlordsAssassins]({{ site.baseurl }}/images/underlords/assassins.png)
+## The Beasts
+
+This team benefitted from the fact that **Enchantress** and **Lone Druid** are both Druid *and* Beast. Double combo beats single combo.
+
+Having a level 2 **Lycan** (*he summons 2 wolves*) plus the summons from **Furion** helped with the fact that I had no real tank combos.
+
+## The Humans
+
+**Lycan** also helped to make our Human combo. This is a low priority combo. The real reason we have **Kunkka** is for the boat.
+
+## The Fights
+
+Most fights went like this. 
+
+**Tidehunter** *the combo'd* placed at the front blasts his ult and stuns their whole team.
+
+**Kunkka** calls in the almighty ship of death as a perfect follow up stun.
+
+**Sand King** throws in an unnecessary line stun on the remaining alive.
+
+**Lone Druid**, **Furion**, and **Lycan** all cast summons increasing our amount of units on the board by 4 unnecessarily.
+
+**Timbersaw** does his attack on a bunch of dead enemies.
+
+*Game Over*
 
 
-## Items
+![UnderlordsUnderlordsWin]({{ site.baseurl }}/images/underlords/underlordsWin.png)
+
+
+# Hunters and Warriors and Nagas Oh My!
+
+
+## Hunters
 
 The first 3 rounds are PVE and allow you to choose an item. Items can be equipped by your Pieces to increase their power, or passively affect your board in other ways.
 
