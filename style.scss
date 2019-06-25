@@ -253,10 +253,12 @@ nav {
 //
 #main{
   border-radius: 10px;
+  min-height: 69vh;
 }
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid $darkGray;
+  
 }
 
 .posts > .post:last-child {
