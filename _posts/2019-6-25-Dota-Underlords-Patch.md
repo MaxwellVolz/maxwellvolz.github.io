@@ -7,13 +7,11 @@ Big balance update! Mages nerfed! Dragon Knight looking extra beefy. Cliffnotes 
 
 [Official Link](https://underlords.com/updates)
 
-# Patch Cliff Notes
-
 ## Gameplay Changes
 
 > New opponent selection logic: This addresses the community feedback of fighting the same opponents over and over.
 
-Nice! Hopefully this will prevent being repeatedly stomped by the #1 dude while floundering in last place. ;)
+Nice! Hopefully this will reduce the chance of getting repeatedly stomped by the #1 dude.
 
 ## Chess Piece Changes
 
