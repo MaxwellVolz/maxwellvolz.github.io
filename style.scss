@@ -15,12 +15,18 @@
 
 html {
   font-size: 100%;
+  // background-color: #000000;
+  // background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='250' height='30' viewBox='0 0 1000 120'%3E%3Cg fill='none' stroke='%23222' stroke-width='10' %3E%3Cpath d='M-500 75c0 0 125-30 250-30S0 75 0 75s125 30 250 30s250-30 250-30s125-30 250-30s250 30 250 30s125 30 250 30s250-30 250-30'/%3E%3Cpath d='M-500 45c0 0 125-30 250-30S0 45 0 45s125 30 250 30s250-30 250-30s125-30 250-30s250 30 250 30s125 30 250 30s250-30 250-30'/%3E%3Cpath d='M-500 105c0 0 125-30 250-30S0 105 0 105s125 30 250 30s250-30 250-30s125-30 250-30s250 30 250 30s125 30 250 30s250-30 250-30'/%3E%3Cpath d='M-500 15c0 0 125-30 250-30S0 15 0 15s125 30 250 30s250-30 250-30s125-30 250-30s250 30 250 30s125 30 250 30s250-30 250-30'/%3E%3Cpath d='M-500-15c0 0 125-30 250-30S0-15 0-15s125 30 250 30s250-30 250-30s125-30 250-30s250 30 250 30s125 30 250 30s250-30 250-30'/%3E%3Cpath d='M-500 135c0 0 125-30 250-30S0 135 0 135s125 30 250 30s250-30 250-30s125-30 250-30s250 30 250 30s125 30 250 30s250-30 250-30'/%3E%3C/g%3E%3C/svg%3E");
+
+  background-color: #1d0310;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1600 900'%3E%3Cpolygon fill='%23340000' points='957 450 539 900 1396 900'/%3E%3Cpolygon fill='%23660000' points='957 450 872.9 900 1396 900'/%3E%3Cpolygon fill='%23400013' points='-60 900 398 662 816 900'/%3E%3Cpolygon fill='%23610013' points='337 900 398 662 816 900'/%3E%3Cpolygon fill='%234d0021' points='1203 546 1552 900 876 900'/%3E%3Cpolygon fill='%2359001e' points='1203 546 1552 900 1162 900'/%3E%3Cpolygon fill='%23570032' points='641 695 886 900 367 900'/%3E%3Cpolygon fill='%234e0026' points='587 900 641 695 886 900'/%3E%3Cpolygon fill='%235d0047' points='1710 900 1401 632 1096 900'/%3E%3Cpolygon fill='%2341002d' points='1710 900 1401 632 1365 900'/%3E%3Cpolygon fill='%235f005f' points='1210 900 971 687 725 900'/%3E%3Cpolygon fill='%23310031' points='943 900 1210 900 971 687'/%3E%3C/svg%3E");
+  background-attachment: fixed;
+  background-size: cover;
 }
 
 body {
-	background: $white;
   font: 18px/1.4 $helvetica;
-  color: $darkGray;
+  color: $lightGray;
 }
 
 .container {
@@ -28,11 +34,12 @@ body {
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
+	background: $darkerGray;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: $darkerGray;
+  color: $white;
   font-weight: bold;
 
   line-height: 1.7;
@@ -61,7 +68,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $gray;
+  color: $lightGray;
 }
 
 p {
@@ -69,11 +76,11 @@ p {
 }
 
 a {
-  color: $blue;
+  color: $gray;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: $lightGray;
   }
 }
 
@@ -152,11 +159,15 @@ img {
 
 .wrapper-masthead {
   margin-bottom: 50px;
+  .container{
+      border-radius: 0 0 10px 10px;
+  }
 }
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
+  // border-bottom: 1px solid $lightGray;
+
 
   @include mobile {
     text-align: center;
@@ -192,7 +203,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: $lightGray;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -225,7 +236,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: $gray;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
@@ -240,7 +251,9 @@ nav {
 //
 // .main
 //
-
+#main{
+  border-radius: 10px;
+}
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
@@ -273,9 +286,9 @@ nav {
 
 .wrapper-footer {
   margin-top: 50px;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  border-top: 1px solid $darkGray;
+  border-bottom: 1px solid $darkGray;
+  background-color: $darkerGray;
 }
 
 footer {
