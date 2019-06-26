@@ -51,9 +51,9 @@ The White Knight gets blasted by the nerf bat. Definitely hurts the turtle-mage 
 
 >Keeper of the Light: Health decreased to 550/1100/2200.
 
-### More Buffs for Dragon Knight
+### Knights Buff
 
-Why not? lol. He's going to be top played this patch.
+The last improvements to the AI was helpful but this change makes **Knights** serious contenders.
 
 > Knight Alliance: Now gives a constant 15/25/35% damage reduction and an additional 20/25/30% when next to another knight.
 
