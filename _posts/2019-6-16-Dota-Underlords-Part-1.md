@@ -4,11 +4,12 @@ title: Dota Underlords Part 1
 categories: Underlords
 ---
 
-Dota Underlords is a strategy game with resource management, gambling, and combinations of various items and types of units to defeat seven other opponents.
+Dota Underlords is a strategy game where players purchase units each turn in hopes of combining them into stronger versions to build an army that fights for them to crush seven other opponents.
+
 
 ## Game Overview
 
-Players assemble a team of units to battle against each other in a series of rounds. Each round players add to their team while trying to find combinations of similar pieces **and** pieces with matching species and classes. 
+Players assemble a team of units to battle against each other over a series of rounds. Each round players add to their team while trying to find combinations of similar pieces and pieces with matching species and classes called **Alliances**. 
 
 After assembling chess pieces on their chess board they fight against either a set of neutral creeps for a chance at loot or copies of a random opponents team.
 
