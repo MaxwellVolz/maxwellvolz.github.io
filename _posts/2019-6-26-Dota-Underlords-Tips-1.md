@@ -4,7 +4,7 @@ title: Dota Underlords Tips Part 1
 categories: Underlords
 ---
 
-A short dive into Loot Rounds and Gold
+A short dive into Loot Rounds and Gold.
 
 
 ## Loot Rounds
@@ -24,7 +24,7 @@ If you lose a Loot Round you do not lose health **but** the amount of items you 
 | 45            | Lunar Beast           | Spread 'em
 | 50            | Roshan                | Don't worry about this
 
-***\*The most important round you need to remember.** Round 15 Wolves act like **Assassins** and jump to the back line at the start of the fight. A common strategy to counter this is to move your ranged and caster units to the top of your board.*
+*Round 15 - Wolves act like **Assassins** and jump to the back line at the start of the fight. A common strategy to counter this is to move your ranged and caster units to the top of your board. This is the most important round to adjust your board.*
 
 
 
